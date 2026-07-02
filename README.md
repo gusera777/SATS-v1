@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="GUSERA" width="140">
+<img src="logo-header.png" alt="GUSERA" width="140">
 
 # GUSERA · SATS
 ### Self-Aware Trend System
